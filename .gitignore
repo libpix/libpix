@@ -1,0 +1,15 @@
+*.o
+*.a
+*.lo
+*.la
+.deps
+.libs
+*.swp
+unp
+autom4te.cache
+Makefile
+config.log
+config.status
+stamp-h1
+*~
+

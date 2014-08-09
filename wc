@@ -1,0 +1,4 @@
+#!/bin/sh
+
+find -name '*.h' -o -name '*.hpp' -o -name '*.cpp' | xargs wc -l
+
